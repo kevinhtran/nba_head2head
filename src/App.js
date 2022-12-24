@@ -1,5 +1,9 @@
 function App() {
-  return <>NBA HEAD2HEAD</>;
+  return (
+    <>
+        <h1>NBA HEAD2HEAD</h1>
+    </>
+  );
 }
 
 export default App;
